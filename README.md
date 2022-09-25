@@ -10,7 +10,7 @@ Author: Shashank Tyagi
 - Create a room
 - View a room
 - View user info
-- Create an event with multiple users
+- Create an event with multiple users and rooms
 - User can respond to event 
 
 ## Entities 
