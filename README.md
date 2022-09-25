@@ -2,4 +2,4 @@
 
 ## Entities 
 
-![Entities](Entities.png)
+![Entities](Entities.svg)

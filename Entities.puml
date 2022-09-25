@@ -1,6 +1,6 @@
 @startuml
 'https://plantuml.com/class-diagram
-
+skinparam backgroundcolor transparent
 class User {
     -id: AutoNumber
     -name: String
@@ -52,9 +52,10 @@ class Participant {
 Participant *--	User
 Participant *--	Room
 Event "1" *-- "Many" Participant
-Participant *--	 Responq
+Participant *--	 Response
 Participant *--	ParticipantType
 User *-- TimeZone
+Room *-- TimeZone
 
 
 class Room {
