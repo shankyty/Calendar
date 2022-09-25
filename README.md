@@ -1,9 +1,9 @@
-# Calendar
-
 ---
 title: Calendar
-version: v1 
+version: v1
 ---
+# Calendar
+
 ## Requirement
 - Create a user
 - Create a room
