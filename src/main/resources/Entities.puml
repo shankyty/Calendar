@@ -1,0 +1,67 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+class User {
+    -id: AutoNumber
+    -name: String
+    -displayName: String
+    -email: Email
+    -password: EncryptedString
+    -createdOn: TimeStamp
+    -TimeZone:TimeZone
+}
+
+
+enum TimeZone {
+    UTC
+    IST
+    PST
+    ...
+}
+
+class Event {
+    -id: AutoNumber
+    -title: String
+    -description: String
+    -participants:List<Participant>
+    -createdOn: TimeStamp
+    -StartTime: TimeStamp
+    -EndTime: TimeStamp
+}
+
+enum ParticipantType {
+    USER,
+    ROOM
+
+}
+
+enum Response {
+    YES,
+    NO,
+    MAYBE
+}
+
+class Participant {
+    -type:ParticipantType
+    -participantId:String
+    -response:Response
+    -message:String
+}
+
+
+Participant *--	User
+Participant *--	Room
+Event "1" *-- "Many" Participant
+Participant *--	 Responq
+Participant *--	ParticipantType
+User *-- TimeZone
+
+
+class Room {
+    -id: AutoNumber
+    -name: String
+    -displayName: String
+    -TimeZone:TimeZone
+}
+
+@enduml
