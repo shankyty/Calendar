@@ -1,0 +1,23 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+participant Client
+participant UserService
+participant UserValidationService
+participant UserMapper
+participant UserRepository
+
+autonumber 1.1
+
+Client -> UserService: create(UserRequest)
+    activate UserService
+    UserService -> UserValidationService : validate(UserRequest)
+        activate UserValidationService
+    return boolean
+    UserService -> UserMapper: map(UserRequest)
+        activate UserMapper
+    return User
+    UserService -> UserDAO: upsert(User)
+        activate UserDAO
+    return User
+return User
+@enduml

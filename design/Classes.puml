@@ -1,0 +1,150 @@
+@startuml
+'https://plantuml.com/class-diagram
+package org.github.shankyty.api.request {
+    class RoomRequest{}
+    class UserRequest{}
+}
+package org.github.shankyty.api.service {
+    interface RoomService {
+        create()
+        get()
+        delete()
+    }
+    interface UserService {
+        create()
+        get()
+        delete()
+    }
+
+}
+package org.github.shankyty.core {
+    interface Idable{
+        getId()
+        setId()
+    }
+
+    interface Room extends Idable {
+        getName()
+        getDisplayName()
+        getTimeZone()
+        setName()
+        setDisplayName()
+        setTimeZone()
+    }
+
+    interface User extends Idable {
+        getName()
+        getDisplayName()
+        getEmail()
+        validatePassword()
+        getTimeZone()
+        setName()
+        setDisplayName()
+        setEmail()
+        setPassword()
+        setTimeZone()
+    }
+
+}
+
+package org.github.shankyty.repository {
+    interface Repository<E extends Idable> {
+        E get(id)
+        E upsert(E)
+        boolean delete(id)
+    }
+     interface RoomRepository extends Repository {
+     }
+     interface UserRepository extends Repository {
+     }
+}
+package org.github.shankyty.validator {
+
+    interface RoomValidator {
+        validate()
+        validateId()
+    }
+    interface UserValidator {
+        validate()
+        validateId()
+    }
+}
+
+package org.github.shankyty.mapper {
+
+    interface Mapper<E,R> {
+        from()
+        to()
+    }
+    interface UserRequestMapper extends Mapper {
+    }
+    interface RoomRequestMapper extends Mapper {
+    }
+}
+
+
+package org.github.shankyty.impl.dao {
+    abstract AbstractDAO<E extends Idable> {
+        + E get(id)
+        + E upsert(E)
+        + boolean delete(id)
+        # query()
+    }
+
+    class RoomDAO extends AbstractDAO implements RoomRepository{
+    }
+
+    class UserDAO extends AbstractDAO implements UserRepository{
+    }
+
+
+}
+package org.github.shankyty.impl.service {
+    class RoomServiceImpl implements RoomService {
+    }
+
+    class UserServiceImpl implements UserService {
+    }
+}
+package org.github.shankyty.impl.validator {
+    class RoomValidatorImpl implements RoomValidator {
+    }
+    class UserValidatorImpl implements UserValidator {
+    }
+}
+
+package org.github.shankyty.impl.mapper {
+
+    class UserRequestMapperImpl implements UserRequestMapper {
+    }
+    class RoomRequestMapperImpl implements RoomRequestMapper {
+    }
+}
+
+AbstractDAO *-- Idable
+Repository *-- Idable
+
+UserRepository *-- User
+RoomRepository *-- Room
+
+UserService *-- UserRequest
+RoomService *-- RoomRequest
+
+UserValidator *-- UserRequest
+RoomValidator *-- RoomRequest
+
+UserServiceImpl *-- UserValidator
+RoomServiceImpl *-- RoomValidator
+
+UserServiceImpl *-- UserRepository
+RoomServiceImpl *-- RoomRepository
+
+UserServiceImpl *-- UserRequestMapper
+RoomServiceImpl *-- RoomRequestMapper
+
+RoomRequestMapper *-- Room
+UserRequestMapper *-- User
+RoomRequestMapper *-- RoomRequest
+UserRequestMapper *-- UserRequest
+
+@enduml

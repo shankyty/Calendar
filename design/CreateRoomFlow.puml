@@ -1,0 +1,23 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+participant Client
+participant RoomService
+participant RoomValidationService
+participant RoomMapper
+participant RoomRepository
+
+autonumber 2.1
+
+Client -> RoomService: create(RoomRequest)
+    activate RoomService
+    RoomService -> RoomValidationService : validate(RoomRequest)
+        activate RoomValidationService
+    return boolean
+    RoomService -> RoomMapper: map(RoomRequest)
+        activate RoomMapper
+    return Room
+    RoomService -> RoomRepository: upsert(Room)
+        activate RoomRepository
+    return Room
+return Room
+@enduml

@@ -15,4 +15,4 @@ Author: Shashank Tyagi
 
 ## Entities 
 
-![Entities](Entities.svg)
+![Entities](design/diagram/Entities.svg)

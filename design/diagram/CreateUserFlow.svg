@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="326px" preserveAspectRatio="none" style="width:802px;height:326px;background:#FFFFFF;" version="1.1" viewBox="0 0 802 326" width="802px" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="205.1738" style="stroke:#181818;stroke-width:1.0;" width="10" x="200" y="67.7988"/><rect fill="#FFFFFF" height="29.3105" style="stroke:#181818;stroke-width:1.0;" width="10" x="389" y="97.1094"/><rect fill="#FFFFFF" height="29.3105" style="stroke:#181818;stroke-width:1.0;" width="10" x="528.5" y="155.7305"/><rect fill="#FFFFFF" height="29.3105" style="stroke:#181818;stroke-width:1.0;" width="10" x="753" y="214.3516"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="32" x2="32" y1="36.4883" y2="290.9727"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="204.5" x2="204.5" y1="36.4883" y2="290.9727"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="394" x2="394" y1="36.4883" y2="290.9727"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="533" x2="533" y1="36.4883" y2="290.9727"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="651" x2="651" y1="36.4883" y2="290.9727"/><line style="stroke:#181818;stroke-width:0.5;stroke-dasharray:5.0,5.0;" x1="758" x2="758" y1="36.4883" y2="290.9727"/><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="54" x="5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="12" y="25.5352">Client</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="54" x="5" y="289.9727"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="12" y="310.5078">Client</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="93" x="158.5" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="165.5" y="25.5352">UserService</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="93" x="158.5" y="289.9727"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="165.5" y="310.5078">UserService</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="162" x="313" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="148" x="320" y="25.5352">UserValidationService</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="162" x="313" y="289.9727"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="148" x="320" y="310.5078">UserValidationService</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="97" x="485" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="492" y="25.5352">UserMapper</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="97" x="485" y="289.9727"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="83" x="492" y="310.5078">UserMapper</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="118" x="592" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="599" y="25.5352">UserRepository</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="118" x="592" y="289.9727"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="599" y="310.5078">UserRepository</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="76" x="720" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="727" y="25.5352">UserDAO</text><rect fill="#E2E2F0" height="30.4883" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="76" x="720" y="289.9727"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="727" y="310.5078">UserDAO</text><rect fill="#FFFFFF" height="205.1738" style="stroke:#181818;stroke-width:1.0;" width="10" x="200" y="67.7988"/><rect fill="#FFFFFF" height="29.3105" style="stroke:#181818;stroke-width:1.0;" width="10" x="389" y="97.1094"/><rect fill="#FFFFFF" height="29.3105" style="stroke:#181818;stroke-width:1.0;" width="10" x="528.5" y="155.7305"/><rect fill="#FFFFFF" height="29.3105" style="stroke:#181818;stroke-width:1.0;" width="10" x="753" y="214.3516"/><polygon fill="#181818" points="188,63.7988,198,67.7988,188,71.7988,192,67.7988" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="32" x2="194" y1="67.7988" y2="67.7988"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="39" y="63.0566">1.1</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="124" x="64" y="63.0566">create(UserRequest)</text><polygon fill="#181818" points="377,93.1094,387,97.1094,377,101.1094,381,97.1094" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="210" x2="383" y1="97.1094" y2="97.1094"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="217" y="92.3672">1.2</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="135" x="242" y="92.3672">validate(UserRequest)</text><polygon fill="#181818" points="221,122.4199,211,126.4199,221,130.4199,217,126.4199" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="215" x2="393" y1="126.4199" y2="126.4199"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="227" y="121.6777">1.3</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="50" x="252" y="121.6777">boolean</text><polygon fill="#181818" points="516.5,151.7305,526.5,155.7305,516.5,159.7305,520.5,155.7305" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="210" x2="522.5" y1="155.7305" y2="155.7305"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="217" y="150.9883">1.4</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="113" x="242" y="150.9883">map(UserRequest)</text><polygon fill="#181818" points="221,181.041,211,185.041,221,189.041,217,185.041" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="215" x2="532.5" y1="185.041" y2="185.041"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="227" y="180.2988">1.5</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="28" x="252" y="180.2988">User</text><polygon fill="#181818" points="741,210.3516,751,214.3516,741,218.3516,745,214.3516" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="210" x2="747" y1="214.3516" y2="214.3516"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="217" y="209.6094">1.6</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="76" x="242" y="209.6094">upsert(User)</text><polygon fill="#181818" points="221,239.6621,211,243.6621,221,247.6621,217,243.6621" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="215" x2="757" y1="243.6621" y2="243.6621"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="227" y="238.9199">1.7</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="28" x="252" y="238.9199">User</text><polygon fill="#181818" points="43,268.9727,33,272.9727,43,276.9727,39,272.9727" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="37" x2="204" y1="272.9727" y2="272.9727"/><text fill="#000000" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacing" textLength="21" x="49" y="268.2305">1.8</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="28" x="74" y="268.2305">User</text><!--MD5=[3ad9ac3677883170ca205185f6c39f9e]
+@startuml
+'https://plantuml.com/sequence-diagram
+participant Client
+participant UserService
+participant UserValidationService
+participant UserMapper
+participant UserRepository
+
+autonumber 1.1
+
+Client -> UserService: create(UserRequest)
+    activate UserService
+    UserService -> UserValidationService : validate(UserRequest)
+        activate UserValidationService
+    return boolean
+    UserService -> UserMapper: map(UserRequest)
+        activate UserMapper
+    return User
+    UserService -> UserDAO: upsert(User)
+        activate UserDAO
+    return User
+return User
+@enduml
+
+@startuml
+participant Client
+participant UserService
+participant UserValidationService
+participant UserMapper
+participant UserRepository
+
+autonumber 1.1
+
+Client -> UserService: create(UserRequest)
+    activate UserService
+    UserService -> UserValidationService : validate(UserRequest)
+        activate UserValidationService
+    return boolean
+    UserService -> UserMapper: map(UserRequest)
+        activate UserMapper
+    return User
+    UserService -> UserDAO: upsert(User)
+        activate UserDAO
+    return User
+return User
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 22:31:30 IST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: IN
+--></g></svg>

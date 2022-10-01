@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="921px" preserveAspectRatio="none" style="width:2351px;height:921px;background:#FFFFFF;" version="1.1" viewBox="0 0 2351 921" width="2351px" zoomAndPan="magnify"><defs/><g><!--MD5=[30e098c1d79b3d29ac76e8775e40bf13]
+cluster org.github.shankyty.api.request--><g id="cluster_org.github.shankyty.api.request"><path d="M598.4,525.5 L823.4,525.5 A3.75,3.75 0 0 1 825.9,528 L832.9,547.9883 L906.4,547.9883 A2.5,2.5 0 0 1 908.9,550.4883 L908.9,622 A2.5,2.5 0 0 1 906.4,624.5 L598.4,624.5 A2.5,2.5 0 0 1 595.9,622 L595.9,528 A2.5,2.5 0 0 1 598.4,525.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="595.9" x2="832.9" y1="547.9883" y2="547.9883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="224" x="599.9" y="541.0352">org.github.shankyty.api.request</text></g><!--MD5=[0e127dd33feb8c913558cffea4d46f6a]
+cluster org.github.shankyty.api.service--><g id="cluster_org.github.shankyty.api.service"><path d="M780.4,6 L1001.4,6 A3.75,3.75 0 0 1 1003.9,8.5 L1010.9,28.4883 L1074.4,28.4883 A2.5,2.5 0 0 1 1076.9,30.9883 L1076.9,151.5 A2.5,2.5 0 0 1 1074.4,154 L780.4,154 A2.5,2.5 0 0 1 777.9,151.5 L777.9,8.5 A2.5,2.5 0 0 1 780.4,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="777.9" x2="1010.9" y1="28.4883" y2="28.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="220" x="781.9" y="21.5352">org.github.shankyty.api.service</text></g><!--MD5=[ac6581a8ccbb1c05c2175529869bb14f]
+cluster org.github.shankyty.core--><g id="cluster_org.github.shankyty.core"><path d="M1346.4,509 L1522.4,509 A3.75,3.75 0 0 1 1524.9,511.5 L1531.9,531.4883 L1680.4,531.4883 A2.5,2.5 0 0 1 1682.9,533.9883 L1682.9,911.5 A2.5,2.5 0 0 1 1680.4,914 L1346.4,914 A2.5,2.5 0 0 1 1343.9,911.5 L1343.9,511.5 A2.5,2.5 0 0 1 1346.4,509 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1343.9" x2="1531.9" y1="531.4883" y2="531.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="175" x="1347.9" y="524.5352">org.github.shankyty.core</text></g><!--MD5=[47ae6a0777395247894745bfa34585a0]
+cluster org.github.shankyty.repository--><g id="cluster_org.github.shankyty.repository"><path d="M1998.4,178 L2218.4,178 A3.75,3.75 0 0 1 2220.9,180.5 L2227.9,200.4883 L2342.4,200.4883 A2.5,2.5 0 0 1 2344.9,202.9883 L2344.9,464.5 A2.5,2.5 0 0 1 2342.4,467 L1998.4,467 A2.5,2.5 0 0 1 1995.9,464.5 L1995.9,180.5 A2.5,2.5 0 0 1 1998.4,178 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1995.9" x2="2227.9" y1="200.4883" y2="200.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="219" x="1999.9" y="193.5352">org.github.shankyty.repository</text></g><!--MD5=[d7ca554c767e75efb504cee72f1b9a42]
+cluster org.github.shankyty.validator--><g id="cluster_org.github.shankyty.validator"><path d="M881.4,351.5 L1091.4,351.5 A3.75,3.75 0 0 1 1093.9,354 L1100.9,373.9883 L1203.4,373.9883 A2.5,2.5 0 0 1 1205.9,376.4883 L1205.9,481 A2.5,2.5 0 0 1 1203.4,483.5 L881.4,483.5 A2.5,2.5 0 0 1 878.9,481 L878.9,354 A2.5,2.5 0 0 1 881.4,351.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="878.9" x2="1100.9" y1="373.9883" y2="373.9883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="209" x="882.9" y="367.0352">org.github.shankyty.validator</text></g><!--MD5=[7680e8cc2bbe1461138a8f6702283e90]
+cluster org.github.shankyty.mapper--><g id="cluster_org.github.shankyty.mapper"><path d="M261.4,186 L461.4,186 A3.75,3.75 0 0 1 463.9,188.5 L470.9,208.4883 L673.4,208.4883 A2.5,2.5 0 0 1 675.9,210.9883 L675.9,464.5 A2.5,2.5 0 0 1 673.4,467 L261.4,467 A2.5,2.5 0 0 1 258.9,464.5 L258.9,188.5 A2.5,2.5 0 0 1 261.4,186 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="258.9" x2="470.9" y1="208.4883" y2="208.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="199" x="262.9" y="201.5352">org.github.shankyty.mapper</text></g><!--MD5=[82490b1ee3478a1e783f206be8f08bae]
+cluster org.github.shankyty.impl.dao--><g id="cluster_org.github.shankyty.impl.dao"><path d="M1709.4,335 L1917.4,335 A3.75,3.75 0 0 1 1919.9,337.5 L1926.9,357.4883 L1969.4,357.4883 A2.5,2.5 0 0 1 1971.9,359.9883 L1971.9,622 A2.5,2.5 0 0 1 1969.4,624.5 L1709.4,624.5 A2.5,2.5 0 0 1 1706.9,622 L1706.9,337.5 A2.5,2.5 0 0 1 1709.4,335 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1706.9" x2="1926.9" y1="357.4883" y2="357.4883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="207" x="1710.9" y="350.5352">org.github.shankyty.impl.dao</text></g><!--MD5=[fcc9cab7bd99e0eb87ff53312d139832]
+cluster org.github.shankyty.impl.service--><g id="cluster_org.github.shankyty.impl.service"><path d="M865.4,202.5 L1097.4,202.5 A3.75,3.75 0 0 1 1099.9,205 L1106.9,224.9883 L1219.4,224.9883 A2.5,2.5 0 0 1 1221.9,227.4883 L1221.9,299 A2.5,2.5 0 0 1 1219.4,301.5 L865.4,301.5 A2.5,2.5 0 0 1 862.9,299 L862.9,205 A2.5,2.5 0 0 1 865.4,202.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="862.9" x2="1106.9" y1="224.9883" y2="224.9883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="231" x="866.9" y="218.0352">org.github.shankyty.impl.service</text></g><!--MD5=[357cb811bee805d506708b1cb9a51177]
+cluster org.github.shankyty.impl.validator--><g id="cluster_org.github.shankyty.impl.validator"><path d="M935.4,525.5 L1181.4,525.5 A3.75,3.75 0 0 1 1183.9,528 L1190.9,547.9883 L1317.4,547.9883 A2.5,2.5 0 0 1 1319.9,550.4883 L1319.9,622 A2.5,2.5 0 0 1 1317.4,624.5 L935.4,624.5 A2.5,2.5 0 0 1 932.9,622 L932.9,528 A2.5,2.5 0 0 1 935.4,525.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="932.9" x2="1190.9" y1="547.9883" y2="547.9883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="245" x="936.9" y="541.0352">org.github.shankyty.impl.validator</text></g><!--MD5=[3ca6cfb2ce1babc431cd333230870263]
+cluster org.github.shankyty.impl.mapper--><g id="cluster_org.github.shankyty.impl.mapper"><path d="M47.4,525.5 L283.4,525.5 A3.75,3.75 0 0 1 285.9,528 L292.9,547.9883 L519.4,547.9883 A2.5,2.5 0 0 1 521.9,550.4883 L521.9,622 A2.5,2.5 0 0 1 519.4,624.5 L47.4,624.5 A2.5,2.5 0 0 1 44.9,622 L44.9,528 A2.5,2.5 0 0 1 47.4,525.5 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="44.9" x2="292.9" y1="547.9883" y2="547.9883"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="235" x="48.9" y="541.0352">org.github.shankyty.impl.mapper</text></g><!--MD5=[b12dff54dbf9132dd8e36614cdb03b90]
+class RoomRequest--><g id="elem_RoomRequest"><rect codeLine="3" fill="#F1F1F1" height="48" id="RoomRequest" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="127" x="612.4" y="560.5"/><ellipse cx="627.4" cy="576.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M630.3731,582.1431 Q629.7921,582.4419 629.1529,582.5913 Q628.5138,582.7407 627.8082,582.7407 Q625.3014,582.7407 623.9815,581.0889 Q622.6617,579.437 622.6617,576.3159 Q622.6617,573.1865 623.9815,571.5347 Q625.3014,569.8828 627.8082,569.8828 Q628.5138,569.8828 629.1612,570.0322 Q629.8087,570.1816 630.3731,570.4805 L630.3731,573.2031 Q629.7423,572.6221 629.1488,572.3523 Q628.5553,572.0825 627.9244,572.0825 Q626.5797,572.0825 625.8949,573.1492 Q625.2101,574.2158 625.2101,576.3159 Q625.2101,578.4077 625.8949,579.4744 Q626.5797,580.541 627.9244,580.541 Q628.5553,580.541 629.1488,580.2712 Q629.7423,580.0015 630.3731,579.4204 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="641.4" y="581.791">RoomRequest</text><line style="stroke:#181818;stroke-width:0.5;" x1="613.4" x2="738.4" y1="592.5" y2="592.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="613.4" x2="738.4" y1="600.5" y2="600.5"/></g><!--MD5=[646d8ca932cca2c10e86725eb705c90c]
+class UserRequest--><g id="elem_UserRequest"><rect codeLine="4" fill="#F1F1F1" height="48" id="UserRequest" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="118" x="774.9" y="560.5"/><ellipse cx="789.9" cy="576.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M792.8731,582.1431 Q792.2921,582.4419 791.6529,582.5913 Q791.0138,582.7407 790.3082,582.7407 Q787.8014,582.7407 786.4815,581.0889 Q785.1617,579.437 785.1617,576.3159 Q785.1617,573.1865 786.4815,571.5347 Q787.8014,569.8828 790.3082,569.8828 Q791.0138,569.8828 791.6612,570.0322 Q792.3087,570.1816 792.8731,570.4805 L792.8731,573.2031 Q792.2423,572.6221 791.6488,572.3523 Q791.0553,572.0825 790.4244,572.0825 Q789.0797,572.0825 788.3949,573.1492 Q787.7101,574.2158 787.7101,576.3159 Q787.7101,578.4077 788.3949,579.4744 Q789.0797,580.541 790.4244,580.541 Q791.0553,580.541 791.6488,580.2712 Q792.2423,580.0015 792.8731,579.4204 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="86" x="803.9" y="581.791">UserRequest</text><line style="stroke:#181818;stroke-width:0.5;" x1="775.9" x2="891.9" y1="592.5" y2="592.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="775.9" x2="891.9" y1="600.5" y2="600.5"/></g><!--MD5=[cf261cbc4c27a347ddf70069d6a8ae53]
+class RoomService--><g id="elem_RoomService"><rect codeLine="7" fill="#F1F1F1" height="97.4648" id="RoomService" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="120" x="793.9" y="41"/><ellipse cx="808.9" cy="57" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M804.8277,52.7651 L804.8277,50.6069 L812.2071,50.6069 L812.2071,52.7651 L809.7418,52.7651 L809.7418,60.8418 L812.2071,60.8418 L812.2071,63 L804.8277,63 L804.8277,60.8418 L807.2931,60.8418 L807.2931,52.7651 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="88" x="822.9" y="62.291">RoomService</text><line style="stroke:#181818;stroke-width:0.5;" x1="794.9" x2="912.9" y1="73" y2="73"/><line style="stroke:#181818;stroke-width:0.5;" x1="794.9" x2="912.9" y1="81" y2="81"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="799.9" y="98.5352">create()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="799.9" y="115.0234">get()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="799.9" y="131.5117">delete()</text></g><!--MD5=[e4ac4745f81aec2db60ad4ddae80b659]
+class UserService--><g id="elem_UserService"><rect codeLine="12" fill="#F1F1F1" height="97.4648" id="UserService" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="111" x="949.4" y="41"/><ellipse cx="964.4" cy="57" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M960.3277,52.7651 L960.3277,50.6069 L967.7071,50.6069 L967.7071,52.7651 L965.2418,52.7651 L965.2418,60.8418 L967.7071,60.8418 L967.7071,63 L960.3277,63 L960.3277,60.8418 L962.7931,60.8418 L962.7931,52.7651 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="79" x="978.4" y="62.291">UserService</text><line style="stroke:#181818;stroke-width:0.5;" x1="950.4" x2="1059.4" y1="73" y2="73"/><line style="stroke:#181818;stroke-width:0.5;" x1="950.4" x2="1059.4" y1="81" y2="81"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="955.4" y="98.5352">create()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="32" x="955.4" y="115.0234">get()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="52" x="955.4" y="131.5117">delete()</text></g><!--MD5=[67dfbe552350294d9abd2a3e156fcd83]
+class Idable--><g id="elem_Idable"><rect codeLine="20" fill="#F1F1F1" height="80.9766" id="Idable" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="74" x="1575.9" y="544"/><ellipse cx="1590.9" cy="560" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1586.8277,555.7651 L1586.8277,553.6069 L1594.2071,553.6069 L1594.2071,555.7651 L1591.7418,555.7651 L1591.7418,563.8418 L1594.2071,563.8418 L1594.2071,566 L1586.8277,566 L1586.8277,563.8418 L1589.2931,563.8418 L1589.2931,555.7651 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="42" x="1604.9" y="565.291">Idable</text><line style="stroke:#181818;stroke-width:0.5;" x1="1576.9" x2="1648.9" y1="576" y2="576"/><line style="stroke:#181818;stroke-width:0.5;" x1="1576.9" x2="1648.9" y1="584" y2="584"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="45" x="1581.9" y="601.5352">getId()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="43" x="1581.9" y="618.0234">setId()</text></g><!--MD5=[d218c48b946d362ff1ecd879cabebcad]
+class Room--><g id="elem_Room"><rect codeLine="25" fill="#F1F1F1" height="146.9297" id="Room" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="132" x="1359.9" y="718"/><ellipse cx="1401.9" cy="734" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1397.8277,729.7651 L1397.8277,727.6069 L1405.2071,727.6069 L1405.2071,729.7651 L1402.7418,729.7651 L1402.7418,737.8418 L1405.2071,737.8418 L1405.2071,740 L1397.8277,740 L1397.8277,737.8418 L1400.2931,737.8418 L1400.2931,729.7651 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="40" x="1421.9" y="739.291">Room</text><line style="stroke:#181818;stroke-width:0.5;" x1="1360.9" x2="1490.9" y1="750" y2="750"/><line style="stroke:#181818;stroke-width:0.5;" x1="1360.9" x2="1490.9" y1="758" y2="758"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="1365.9" y="775.5352">getName()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="1365.9" y="792.0234">getDisplayName()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="1365.9" y="808.5117">getTimeZone()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="1365.9" y="825">setName()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="1365.9" y="841.4883">setDisplayName()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="1365.9" y="857.9766">setTimeZone()</text></g><!--MD5=[3fd616f346a44cd59a91eb10b19e157c]
+class User--><g id="elem_User"><rect codeLine="34" fill="#F1F1F1" height="212.8828" id="User" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="140" x="1526.9" y="685"/><ellipse cx="1577.15" cy="701" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1573.0777,696.7651 L1573.0777,694.6069 L1580.4571,694.6069 L1580.4571,696.7651 L1577.9918,696.7651 L1577.9918,704.8418 L1580.4571,704.8418 L1580.4571,707 L1573.0777,707 L1573.0777,704.8418 L1575.5431,704.8418 L1575.5431,696.7651 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="31" x="1597.65" y="706.291">User</text><line style="stroke:#181818;stroke-width:0.5;" x1="1527.9" x2="1665.9" y1="717" y2="717"/><line style="stroke:#181818;stroke-width:0.5;" x1="1527.9" x2="1665.9" y1="725" y2="725"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="1532.9" y="742.5352">getName()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="120" x="1532.9" y="759.0234">getDisplayName()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="1532.9" y="775.5117">getEmail()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="128" x="1532.9" y="792">validatePassword()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="1532.9" y="808.4883">getTimeZone()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="1532.9" y="824.9766">setName()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="1532.9" y="841.4648">setDisplayName()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="1532.9" y="857.9531">setEmail()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="95" x="1532.9" y="874.4414">setPassword()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="1532.9" y="890.9297">setTimeZone()</text></g><!--MD5=[c05f8d4c5007184b0fb1ea93cdb8d9fe]
+class Repository--><g id="elem_Repository"><rect codeLine="50" fill="#F1F1F1" height="97.4648" id="Repository" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="206" x="2011.9" y="213"/><ellipse cx="2026.9" cy="229" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2022.8277,224.7651 L2022.8277,222.6069 L2030.2071,222.6069 L2030.2071,224.7651 L2027.7418,224.7651 L2027.7418,232.8418 L2030.2071,232.8418 L2030.2071,235 L2022.8277,235 L2022.8277,232.8418 L2025.2931,232.8418 L2025.2931,224.7651 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="73" x="2040.9" y="234.291">Repository</text><rect fill="#FFFFFF" height="16.1328" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" width="99" x="2121.9" y="210"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="97" x="2122.9" y="222.6016">E extends Idable</text><line style="stroke:#181818;stroke-width:0.5;" x1="2012.9" x2="2216.9" y1="245" y2="245"/><line style="stroke:#181818;stroke-width:0.5;" x1="2012.9" x2="2216.9" y1="253" y2="253"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="2017.9" y="270.5352">E get(id)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="2017.9" y="287.0234">E upsert(E)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="2017.9" y="303.5117">boolean delete(id)</text></g><!--MD5=[3238b1d5cade2878972398a68e07e333]
+class RoomRepository--><g id="elem_RoomRepository"><rect codeLine="55" fill="#F1F1F1" height="48" id="RoomRepository" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="145" x="2012.4" y="403"/><ellipse cx="2027.4" cy="419" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2023.3277,414.7651 L2023.3277,412.6069 L2030.7071,412.6069 L2030.7071,414.7651 L2028.2418,414.7651 L2028.2418,422.8418 L2030.7071,422.8418 L2030.7071,425 L2023.3277,425 L2023.3277,422.8418 L2025.7931,422.8418 L2025.7931,414.7651 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="113" x="2041.4" y="424.291">RoomRepository</text><line style="stroke:#181818;stroke-width:0.5;" x1="2013.4" x2="2156.4" y1="435" y2="435"/><line style="stroke:#181818;stroke-width:0.5;" x1="2013.4" x2="2156.4" y1="443" y2="443"/></g><!--MD5=[093c210125347143eef5bb9199eae634]
+class UserRepository--><g id="elem_UserRepository"><rect codeLine="57" fill="#F1F1F1" height="48" id="UserRepository" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="136" x="2192.9" y="403"/><ellipse cx="2207.9" cy="419" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2203.8277,414.7651 L2203.8277,412.6069 L2211.2071,412.6069 L2211.2071,414.7651 L2208.7418,414.7651 L2208.7418,422.8418 L2211.2071,422.8418 L2211.2071,425 L2203.8277,425 L2203.8277,422.8418 L2206.2931,422.8418 L2206.2931,414.7651 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="104" x="2221.9" y="424.291">UserRepository</text><line style="stroke:#181818;stroke-width:0.5;" x1="2193.9" x2="2327.9" y1="435" y2="435"/><line style="stroke:#181818;stroke-width:0.5;" x1="2193.9" x2="2327.9" y1="443" y2="443"/></g><!--MD5=[f57b34a57744f7a874ee19cc1f8898d3]
+class RoomValidator--><g id="elem_RoomValidator"><rect codeLine="62" fill="#F1F1F1" height="80.9766" id="RoomValidator" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="134" x="894.9" y="386.5"/><ellipse cx="909.9" cy="402.5" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M905.8277,398.2651 L905.8277,396.1069 L913.2071,396.1069 L913.2071,398.2651 L910.7418,398.2651 L910.7418,406.3418 L913.2071,406.3418 L913.2071,408.5 L905.8277,408.5 L905.8277,406.3418 L908.2931,406.3418 L908.2931,398.2651 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="102" x="923.9" y="407.791">RoomValidator</text><line style="stroke:#181818;stroke-width:0.5;" x1="895.9" x2="1027.9" y1="418.5" y2="418.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="895.9" x2="1027.9" y1="426.5" y2="426.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="900.9" y="444.0352">validate()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="900.9" y="460.5234">validateId()</text></g><!--MD5=[8fbd0064dc50d5e240a10711b3e598f6]
+class UserValidator--><g id="elem_UserValidator"><rect codeLine="66" fill="#F1F1F1" height="80.9766" id="UserValidator" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="125" x="1064.4" y="386.5"/><ellipse cx="1079.4" cy="402.5" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1075.3277,398.2651 L1075.3277,396.1069 L1082.7071,396.1069 L1082.7071,398.2651 L1080.2418,398.2651 L1080.2418,406.3418 L1082.7071,406.3418 L1082.7071,408.5 L1075.3277,408.5 L1075.3277,406.3418 L1077.7931,406.3418 L1077.7931,398.2651 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="93" x="1093.4" y="407.791">UserValidator</text><line style="stroke:#181818;stroke-width:0.5;" x1="1065.4" x2="1188.4" y1="418.5" y2="418.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="1065.4" x2="1188.4" y1="426.5" y2="426.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="1070.4" y="444.0352">validate()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="1070.4" y="460.5234">validateId()</text></g><!--MD5=[085457430d2356209d15d1291460c965]
+class Mapper--><g id="elem_Mapper"><rect codeLine="74" fill="#F1F1F1" height="80.9766" id="Mapper" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="107" x="416.4" y="221"/><ellipse cx="431.4" cy="237" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M427.3277,232.7651 L427.3277,230.6069 L434.7071,230.6069 L434.7071,232.7651 L432.2418,232.7651 L432.2418,240.8418 L434.7071,240.8418 L434.7071,243 L427.3277,243 L427.3277,240.8418 L429.7931,240.8418 L429.7931,232.7651 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="52" x="445.4" y="242.291">Mapper</text><rect fill="#FFFFFF" height="16.1328" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" width="21" x="505.4" y="218"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="19" x="506.4" y="230.6016">E,R</text><line style="stroke:#181818;stroke-width:0.5;" x1="417.4" x2="522.4" y1="253" y2="253"/><line style="stroke:#181818;stroke-width:0.5;" x1="417.4" x2="522.4" y1="261" y2="261"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="43" x="422.4" y="278.5352">from()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="24" x="422.4" y="295.0234">to()</text></g><!--MD5=[aca62de70deb0e2f39639a7a9acf98d3]
+class UserRequestMapper--><g id="elem_UserRequestMapper"><rect codeLine="78" fill="#F1F1F1" height="48" id="UserRequestMapper" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="170" x="489.9" y="403"/><ellipse cx="504.9" cy="419" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M500.8277,414.7651 L500.8277,412.6069 L508.2071,412.6069 L508.2071,414.7651 L505.7418,414.7651 L505.7418,422.8418 L508.2071,422.8418 L508.2071,425 L500.8277,425 L500.8277,422.8418 L503.2931,422.8418 L503.2931,414.7651 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="138" x="518.9" y="424.291">UserRequestMapper</text><line style="stroke:#181818;stroke-width:0.5;" x1="490.9" x2="658.9" y1="435" y2="435"/><line style="stroke:#181818;stroke-width:0.5;" x1="490.9" x2="658.9" y1="443" y2="443"/></g><!--MD5=[0e3ca0384a7d7ac7e75d473be7f8012c]
+class RoomRequestMapper--><g id="elem_RoomRequestMapper"><rect codeLine="80" fill="#F1F1F1" height="48" id="RoomRequestMapper" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="179" x="275.4" y="403"/><ellipse cx="290.4" cy="419" fill="#B4A7E5" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M286.3277,414.7651 L286.3277,412.6069 L293.7071,412.6069 L293.7071,414.7651 L291.2418,414.7651 L291.2418,422.8418 L293.7071,422.8418 L293.7071,425 L286.3277,425 L286.3277,422.8418 L288.7931,422.8418 L288.7931,414.7651 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="147" x="304.4" y="424.291">RoomRequestMapper</text><line style="stroke:#181818;stroke-width:0.5;" x1="276.4" x2="453.4" y1="435" y2="435"/><line style="stroke:#181818;stroke-width:0.5;" x1="276.4" x2="453.4" y1="443" y2="443"/></g><!--MD5=[4df9ad11ed232e568b984727a87c7865]
+class AbstractDAO--><g id="elem_AbstractDAO"><rect codeLine="86" fill="#F1F1F1" height="113.9531" id="AbstractDAO" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="221" x="1723.4" y="370"/><ellipse cx="1738.4" cy="386" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1738.5133,381.3481 L1737.3595,386.4199 L1739.6754,386.4199 Z M1737.0191,379.1069 L1740.0157,379.1069 L1743.3609,391.5 L1740.9122,391.5 L1740.1485,388.437 L1736.8697,388.437 L1736.1227,391.5 L1733.6739,391.5 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="88" x="1752.4" y="391.291">AbstractDAO</text><rect fill="#FFFFFF" height="16.1328" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" width="99" x="1848.4" y="367"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="97" x="1849.4" y="379.6016">E extends Idable</text><line style="stroke:#181818;stroke-width:0.5;" x1="1724.4" x2="1943.4" y1="402" y2="402"/><line style="stroke:#181818;stroke-width:0.5;" x1="1724.4" x2="1943.4" y1="410" y2="410"/><ellipse cx="1734.4" cy="423.7441" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="57" x="1743.4" y="427.5352">E get(id)</text><ellipse cx="1734.4" cy="440.2324" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="1743.4" y="444.0234">E upsert(E)</text><ellipse cx="1734.4" cy="456.7207" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="125" x="1743.4" y="460.5117">boolean delete(id)</text><polygon fill="#FFFF44" points="1734.4,468.209,1738.4,472.209,1734.4,476.209,1730.4,472.209" style="stroke:#B38D22;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="1743.4" y="477">query()</text></g><!--MD5=[6f4323f264f4418c3d38a1c65f2ab85f]
+class RoomDAO--><g id="elem_RoomDAO"><rect codeLine="93" fill="#F1F1F1" height="48" id="RoomDAO" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="103" x="1723.4" y="560.5"/><ellipse cx="1738.4" cy="576.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1741.3731,582.1431 Q1740.7921,582.4419 1740.1529,582.5913 Q1739.5138,582.7407 1738.8082,582.7407 Q1736.3014,582.7407 1734.9815,581.0889 Q1733.6617,579.437 1733.6617,576.3159 Q1733.6617,573.1865 1734.9815,571.5347 Q1736.3014,569.8828 1738.8082,569.8828 Q1739.5138,569.8828 1740.1612,570.0322 Q1740.8087,570.1816 1741.3731,570.4805 L1741.3731,573.2031 Q1740.7423,572.6221 1740.1488,572.3523 Q1739.5553,572.0825 1738.9244,572.0825 Q1737.5797,572.0825 1736.8949,573.1492 Q1736.2101,574.2158 1736.2101,576.3159 Q1736.2101,578.4077 1736.8949,579.4744 Q1737.5797,580.541 1738.9244,580.541 Q1739.5553,580.541 1740.1488,580.2712 Q1740.7423,580.0015 1741.3731,579.4204 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="1752.4" y="581.791">RoomDAO</text><line style="stroke:#181818;stroke-width:0.5;" x1="1724.4" x2="1825.4" y1="592.5" y2="592.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="1724.4" x2="1825.4" y1="600.5" y2="600.5"/></g><!--MD5=[6f49855a2f41b15b7be64856ff30349b]
+class UserDAO--><g id="elem_UserDAO"><rect codeLine="96" fill="#F1F1F1" height="48" id="UserDAO" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="94" x="1861.9" y="560.5"/><ellipse cx="1876.9" cy="576.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1879.8731,582.1431 Q1879.2921,582.4419 1878.6529,582.5913 Q1878.0138,582.7407 1877.3082,582.7407 Q1874.8014,582.7407 1873.4815,581.0889 Q1872.1617,579.437 1872.1617,576.3159 Q1872.1617,573.1865 1873.4815,571.5347 Q1874.8014,569.8828 1877.3082,569.8828 Q1878.0138,569.8828 1878.6612,570.0322 Q1879.3087,570.1816 1879.8731,570.4805 L1879.8731,573.2031 Q1879.2423,572.6221 1878.6488,572.3523 Q1878.0553,572.0825 1877.4244,572.0825 Q1876.0797,572.0825 1875.3949,573.1492 Q1874.7101,574.2158 1874.7101,576.3159 Q1874.7101,578.4077 1875.3949,579.4744 Q1876.0797,580.541 1877.4244,580.541 Q1878.0553,580.541 1878.6488,580.2712 Q1879.2423,580.0015 1879.8731,579.4204 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="62" x="1890.9" y="581.791">UserDAO</text><line style="stroke:#181818;stroke-width:0.5;" x1="1862.9" x2="1954.9" y1="592.5" y2="592.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="1862.9" x2="1954.9" y1="600.5" y2="600.5"/></g><!--MD5=[099f274c4ee9ce3e8761ba36f1902d14]
+class RoomServiceImpl--><g id="elem_RoomServiceImpl"><rect codeLine="102" fill="#F1F1F1" height="48" id="RoomServiceImpl" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="150" x="878.9" y="237.5"/><ellipse cx="893.9" cy="253.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M896.8731,259.1431 Q896.2921,259.4419 895.6529,259.5913 Q895.0138,259.7407 894.3082,259.7407 Q891.8014,259.7407 890.4815,258.0889 Q889.1617,256.437 889.1617,253.3159 Q889.1617,250.1865 890.4815,248.5347 Q891.8014,246.8828 894.3082,246.8828 Q895.0138,246.8828 895.6612,247.0322 Q896.3087,247.1816 896.8731,247.4805 L896.8731,250.2031 Q896.2423,249.6221 895.6488,249.3523 Q895.0553,249.0825 894.4244,249.0825 Q893.0797,249.0825 892.3949,250.1492 Q891.7101,251.2158 891.7101,253.3159 Q891.7101,255.4077 892.3949,256.4744 Q893.0797,257.541 894.4244,257.541 Q895.0553,257.541 895.6488,257.2712 Q896.2423,257.0015 896.8731,256.4204 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="907.9" y="258.791">RoomServiceImpl</text><line style="stroke:#181818;stroke-width:0.5;" x1="879.9" x2="1027.9" y1="269.5" y2="269.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="879.9" x2="1027.9" y1="277.5" y2="277.5"/></g><!--MD5=[824c1a2fecd5f590d2e9b6246f258c59]
+class UserServiceImpl--><g id="elem_UserServiceImpl"><rect codeLine="105" fill="#F1F1F1" height="48" id="UserServiceImpl" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="141" x="1064.4" y="237.5"/><ellipse cx="1079.4" cy="253.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1082.3731,259.1431 Q1081.7921,259.4419 1081.1529,259.5913 Q1080.5138,259.7407 1079.8082,259.7407 Q1077.3014,259.7407 1075.9815,258.0889 Q1074.6617,256.437 1074.6617,253.3159 Q1074.6617,250.1865 1075.9815,248.5347 Q1077.3014,246.8828 1079.8082,246.8828 Q1080.5138,246.8828 1081.1612,247.0322 Q1081.8087,247.1816 1082.3731,247.4805 L1082.3731,250.2031 Q1081.7423,249.6221 1081.1488,249.3523 Q1080.5553,249.0825 1079.9244,249.0825 Q1078.5797,249.0825 1077.8949,250.1492 Q1077.2101,251.2158 1077.2101,253.3159 Q1077.2101,255.4077 1077.8949,256.4744 Q1078.5797,257.541 1079.9244,257.541 Q1080.5553,257.541 1081.1488,257.2712 Q1081.7423,257.0015 1082.3731,256.4204 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="109" x="1093.4" y="258.791">UserServiceImpl</text><line style="stroke:#181818;stroke-width:0.5;" x1="1065.4" x2="1204.4" y1="269.5" y2="269.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="1065.4" x2="1204.4" y1="277.5" y2="277.5"/></g><!--MD5=[9234720d06def75284304b874bbad18d]
+class RoomValidatorImpl--><g id="elem_RoomValidatorImpl"><rect codeLine="109" fill="#F1F1F1" height="48" id="RoomValidatorImpl" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="164" x="948.9" y="560.5"/><ellipse cx="963.9" cy="576.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M966.8731,582.1431 Q966.2921,582.4419 965.6529,582.5913 Q965.0138,582.7407 964.3082,582.7407 Q961.8014,582.7407 960.4815,581.0889 Q959.1617,579.437 959.1617,576.3159 Q959.1617,573.1865 960.4815,571.5347 Q961.8014,569.8828 964.3082,569.8828 Q965.0138,569.8828 965.6612,570.0322 Q966.3087,570.1816 966.8731,570.4805 L966.8731,573.2031 Q966.2423,572.6221 965.6488,572.3523 Q965.0553,572.0825 964.4244,572.0825 Q963.0797,572.0825 962.3949,573.1492 Q961.7101,574.2158 961.7101,576.3159 Q961.7101,578.4077 962.3949,579.4744 Q963.0797,580.541 964.4244,580.541 Q965.0553,580.541 965.6488,580.2712 Q966.2423,580.0015 966.8731,579.4204 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="132" x="977.9" y="581.791">RoomValidatorImpl</text><line style="stroke:#181818;stroke-width:0.5;" x1="949.9" x2="1111.9" y1="592.5" y2="592.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="949.9" x2="1111.9" y1="600.5" y2="600.5"/></g><!--MD5=[390e30d04e310cb78faf8c99987f0eae]
+class UserValidatorImpl--><g id="elem_UserValidatorImpl"><rect codeLine="111" fill="#F1F1F1" height="48" id="UserValidatorImpl" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="155" x="1148.4" y="560.5"/><ellipse cx="1163.4" cy="576.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1166.3731,582.1431 Q1165.7921,582.4419 1165.1529,582.5913 Q1164.5138,582.7407 1163.8082,582.7407 Q1161.3014,582.7407 1159.9815,581.0889 Q1158.6617,579.437 1158.6617,576.3159 Q1158.6617,573.1865 1159.9815,571.5347 Q1161.3014,569.8828 1163.8082,569.8828 Q1164.5138,569.8828 1165.1612,570.0322 Q1165.8087,570.1816 1166.3731,570.4805 L1166.3731,573.2031 Q1165.7423,572.6221 1165.1488,572.3523 Q1164.5553,572.0825 1163.9244,572.0825 Q1162.5797,572.0825 1161.8949,573.1492 Q1161.2101,574.2158 1161.2101,576.3159 Q1161.2101,578.4077 1161.8949,579.4744 Q1162.5797,580.541 1163.9244,580.541 Q1164.5553,580.541 1165.1488,580.2712 Q1165.7423,580.0015 1166.3731,579.4204 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="123" x="1177.4" y="581.791">UserValidatorImpl</text><line style="stroke:#181818;stroke-width:0.5;" x1="1149.4" x2="1302.4" y1="592.5" y2="592.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="1149.4" x2="1302.4" y1="600.5" y2="600.5"/></g><!--MD5=[ae4d36df35ead246430acbc2db62890a]
+class UserRequestMapperImpl--><g id="elem_UserRequestMapperImpl"><rect codeLine="117" fill="#F1F1F1" height="48" id="UserRequestMapperImpl" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="200" x="305.9" y="560.5"/><ellipse cx="320.9" cy="576.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M323.8731,582.1431 Q323.2921,582.4419 322.6529,582.5913 Q322.0138,582.7407 321.3082,582.7407 Q318.8014,582.7407 317.4815,581.0889 Q316.1617,579.437 316.1617,576.3159 Q316.1617,573.1865 317.4815,571.5347 Q318.8014,569.8828 321.3082,569.8828 Q322.0138,569.8828 322.6612,570.0322 Q323.3087,570.1816 323.8731,570.4805 L323.8731,573.2031 Q323.2423,572.6221 322.6488,572.3523 Q322.0553,572.0825 321.4244,572.0825 Q320.0797,572.0825 319.3949,573.1492 Q318.7101,574.2158 318.7101,576.3159 Q318.7101,578.4077 319.3949,579.4744 Q320.0797,580.541 321.4244,580.541 Q322.0553,580.541 322.6488,580.2712 Q323.2423,580.0015 323.8731,579.4204 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="168" x="334.9" y="581.791">UserRequestMapperImpl</text><line style="stroke:#181818;stroke-width:0.5;" x1="306.9" x2="504.9" y1="592.5" y2="592.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="306.9" x2="504.9" y1="600.5" y2="600.5"/></g><!--MD5=[eb2cad22d1750281cbc7b7f042050496]
+class RoomRequestMapperImpl--><g id="elem_RoomRequestMapperImpl"><rect codeLine="119" fill="#F1F1F1" height="48" id="RoomRequestMapperImpl" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="209" x="61.4" y="560.5"/><ellipse cx="76.4" cy="576.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M79.3731,582.1431 Q78.7921,582.4419 78.1529,582.5913 Q77.5138,582.7407 76.8082,582.7407 Q74.3014,582.7407 72.9815,581.0889 Q71.6617,579.437 71.6617,576.3159 Q71.6617,573.1865 72.9815,571.5347 Q74.3014,569.8828 76.8082,569.8828 Q77.5138,569.8828 78.1612,570.0322 Q78.8087,570.1816 79.3731,570.4805 L79.3731,573.2031 Q78.7423,572.6221 78.1488,572.3523 Q77.5553,572.0825 76.9244,572.0825 Q75.5797,572.0825 74.8949,573.1492 Q74.2101,574.2158 74.2101,576.3159 Q74.2101,578.4077 74.8949,579.4744 Q75.5797,580.541 76.9244,580.541 Q77.5553,580.541 78.1488,580.2712 Q78.7423,580.0015 79.3731,579.4204 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="177" x="90.4" y="581.791">RoomRequestMapperImpl</text><line style="stroke:#181818;stroke-width:0.5;" x1="62.4" x2="269.4" y1="592.5" y2="592.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="62.4" x2="269.4" y1="600.5" y2="600.5"/></g><!--MD5=[a16cfbef2d9ec6f1300be579fd9cd256]
+reverse link Idable to Room--><g id="link_Idable_Room"><path d="M1560.74,633.35 C1544.04,649.33 1525.78,667.53 1509.9,685 C1500.46,695.4 1490.82,706.72 1481.61,717.95 " fill="none" id="Idable-backto-Room" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1556.18,628.03,1575.53,619.38,1565.8,638.21,1556.18,628.03" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ca7f586449eca4bdee67538620746770]
+reverse link Idable to User--><g id="link_Idable_User"><path d="M1608.23,645.38 C1607.26,657.76 1606.22,671.15 1605.17,684.62 " fill="none" id="Idable-backto-User" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1601.28,644.42,1609.82,625.03,1615.24,645.51,1601.28,644.42" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[236aa39c7865247fbf061490c434dafe]
+reverse link Repository to RoomRepository--><g id="link_Repository_RoomRepository"><path d="M2102.52,329.99 C2097.75,355.99 2092.61,383.98 2089.13,402.99 " fill="none" id="Repository-backto-RoomRepository" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="2095.65,328.64,2106.14,310.23,2109.42,331.17,2095.65,328.64" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7969d6275d4b557381ebe8be86eeb4b6]
+reverse link Repository to UserRepository--><g id="link_Repository_UserRepository"><path d="M2173.28,325.2 C2173.83,325.8 2174.37,326.4 2174.9,327 C2197.89,352.57 2223.68,382.42 2240.97,402.6 " fill="none" id="Repository-backto-UserRepository" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="2167.94,329.73,2159.65,310.24,2178.29,320.3,2167.94,329.73" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7fedcd4bd5f1956dd0ca819bf5e64ee3]
+reverse link Mapper to UserRequestMapper--><g id="link_Mapper_UserRequestMapper"><path d="M506.34,319.23 C524.79,347.97 546.17,381.26 560.09,402.93 " fill="none" id="Mapper-backto-UserRequestMapper" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="500.24,322.69,495.32,302.08,512.02,315.12,500.24,322.69" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[e7423ec58793382e12680191843ebe38]
+reverse link Mapper to RoomRequestMapper--><g id="link_Mapper_RoomRequestMapper"><path d="M433.47,319.23 C415.02,347.97 393.64,381.26 379.72,402.93 " fill="none" id="Mapper-backto-RoomRequestMapper" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="427.79,315.12,444.49,302.08,439.57,322.69,427.79,315.12" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[be8db2519025cfaa259cca658387ee29]
+reverse link AbstractDAO to RoomDAO--><g id="link_AbstractDAO_RoomDAO"><path d="M1805.44,503.03 C1797.53,523.87 1789.52,544.96 1783.7,560.33 " fill="none" id="AbstractDAO-backto-RoomDAO" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1798.96,500.36,1812.6,484.14,1812.05,505.32,1798.96,500.36" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[432b05c8bc93f8f8156bd53c02c406f3]
+reverse link RoomRepository to RoomDAO--><g id="link_RoomRepository_RoomDAO"><path d="M2035.45,461.98 C2016.41,473.37 1993.94,484.84 1971.9,491.5 C1944.81,499.68 1870.12,488.16 1844.9,501 C1819.46,513.95 1799.55,540.61 1787.58,560.13 " fill="none" id="RoomRepository-backto-RoomDAO" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="2031.86,455.97,2052.52,451.26,2039.31,467.83,2031.86,455.97" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[92512738815d5f7d3138e7bf6d4c208f]
+reverse link AbstractDAO to UserDAO--><g id="link_AbstractDAO_UserDAO"><path d="M1869.78,502.39 C1879.93,523.43 1890.24,544.81 1897.73,560.33 " fill="none" id="AbstractDAO-backto-UserDAO" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1863.36,505.19,1860.98,484.14,1875.97,499.11,1863.36,505.19" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[2801508946bcb1f2f1030834a8bb03e8]
+reverse link UserRepository to UserDAO--><g id="link_UserRepository_UserDAO"><path d="M2217.83,463.76 C2204.6,473.63 2189.63,483.75 2174.9,491.5 C2102.47,529.62 2010.95,557.24 1956.32,571.79 " fill="none" id="UserRepository-backto-UserDAO" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="2213.96,457.9,2234.05,451.14,2222.56,468.95,2213.96,457.9" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[9444d14d9fc8e5a0b372537583df2e53]
+reverse link RoomService to RoomServiceImpl--><g id="link_RoomService_RoomServiceImpl"><path d="M892.25,155.69 C909.18,184.47 928,216.46 940.34,237.44 " fill="none" id="RoomService-backto-RoomServiceImpl" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="886.13,159.09,882.02,138.31,898.2,152,886.13,159.09" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1573853a96a9234aeed610422689d1e9]
+reverse link UserService to UserServiceImpl--><g id="link_UserService_UserServiceImpl"><path d="M1053.82,154.47 C1076.07,183.56 1101,216.17 1117.27,237.44 " fill="none" id="UserService-backto-UserServiceImpl" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1048.05,158.45,1041.46,138.31,1059.17,149.94,1048.05,158.45" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[59d6022e93df57b9f0d001b1b66f50f1]
+reverse link RoomValidator to RoomValidatorImpl--><g id="link_RoomValidator_RoomValidatorImpl"><path d="M987.7,486.13 C999.14,511.92 1011.95,540.79 1020.63,560.35 " fill="none" id="RoomValidator-backto-RoomValidatorImpl" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="981.21,488.76,979.49,467.64,994,483.08,981.21,488.76" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[3f930aaa5197b78e0169a2b5502835ab]
+reverse link UserValidator to UserValidatorImpl--><g id="link_UserValidator_UserValidatorImpl"><path d="M1162.95,484.62 C1179.61,510.79 1198.47,540.41 1211.17,560.35 " fill="none" id="UserValidator-backto-UserValidatorImpl" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="1156.98,488.27,1152.14,467.64,1168.79,480.75,1156.98,488.27" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[bdb5bd2a33fc0ccb08dfbf1ba4450993]
+reverse link UserRequestMapper to UserRequestMapperImpl--><g id="link_UserRequestMapper_UserRequestMapperImpl"><path d="M534.46,465.21 C502.33,494.78 458.39,535.2 431.1,560.32 " fill="none" id="UserRequestMapper-backto-UserRequestMapperImpl" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="530.14,459.67,549.6,451.28,539.62,469.97,530.14,459.67" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[599ded16388015a8bb5fc2e83dabee87]
+reverse link RoomRequestMapper to RoomRequestMapperImpl--><g id="link_RoomRequestMapper_RoomRequestMapperImpl"><path d="M319.34,463.6 C281.34,493.29 228.3,534.74 195.57,560.32 " fill="none" id="RoomRequestMapper-backto-RoomRequestMapperImpl" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="none" points="315.04,458.08,335.11,451.28,323.66,469.11,315.04,458.08" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7ae3cd8dca3dbee7d021158c222cd49b]
+reverse link AbstractDAO to Idable--><g id="link_AbstractDAO_Idable"><path codeLine="123" d="M1720.74,491.47 C1716.01,494.61 1711.38,497.8 1706.9,501 C1687.3,515.02 1667.03,532.4 1650.35,547.58 " fill="none" id="AbstractDAO-backto-Idable" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1731.9,484.21,1724.6894,484.1265,1721.839,490.7503,1729.0496,490.8338,1731.9,484.21" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b4f8978c2edfdb4a06f1b213e6fcac62]
+reverse link Repository to Idable--><g id="link_Repository_Idable"><path codeLine="124" d="M1998.62,267.93 C1894.05,275.08 1750.4,291.24 1706.9,327 C1640.78,381.37 1621.17,486.58 1615.35,543.92 " fill="none" id="Repository-backto-Idable" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="2011.81,267.06,2005.5593,263.4643,1999.8361,267.8512,2006.0868,271.4469,2011.81,267.06" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[70653a2b8f9805ba601a3bf0c9ed9be5]
+reverse link UserRepository to User--><g id="link_UserRepository_User"><path codeLine="126" d="M2233.43,461.24 C2195,505.83 2121.07,584.9 2042.9,632.5 C1920.82,706.84 1758.65,753.12 1667.29,775.13 " fill="none" id="UserRepository-backto-User" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="2241.97,451.21,2235.0348,453.1855,2234.1909,460.3471,2241.1262,458.3716,2241.97,451.21" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[497abfa4270bfe727ae3139c3093bbe8]
+reverse link RoomRepository to Room--><g id="link_RoomRepository_Room"><path codeLine="127" d="M2076.09,463.77 C2062.41,511 2031.25,592.8 1971.9,632.5 C1800.14,747.4 1690.69,584.88 1509.9,685 C1495.16,693.17 1482.06,705.08 1470.85,718 " fill="none" id="RoomRepository-backto-Room" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="2079.56,451.15,2074.1145,455.8772,2076.3836,462.722,2081.8291,457.9948,2079.56,451.15" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[948d2ac731b000a432c72a18d3a98d18]
+reverse link UserService to UserRequest--><g id="link_UserService_UserRequest"><path codeLine="129" d="M955.43,146.9 C948.08,152.79 940.17,158.05 931.9,162 C917.97,168.65 873.57,158.84 862.9,170 C757.75,280.04 806.55,490.49 826.69,560.34 " fill="none" id="UserService-backto-UserRequest" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="965.43,138.23,958.2759,139.1352,956.36,146.0872,963.514,145.1819,965.43,138.23" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[cc213ff661956044d057753b4f55b5de]
+reverse link RoomService to RoomRequest--><g id="link_RoomService_RoomRequest"><path codeLine="130" d="M805.84,149.37 C801.45,156.11 797.36,163.06 793.9,170 C724.49,309.32 689.87,495.99 679.41,560.46 " fill="none" id="RoomService-backto-RoomRequest" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="813.46,138.26,806.7678,140.9461,806.6734,148.1566,813.3656,145.4705,813.46,138.26" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8fc07c4646f201c9d0bcabac7e577c12]
+reverse link UserValidator to UserRequest--><g id="link_UserValidator_UserRequest"><path codeLine="132" d="M1075.62,475.65 C1066.58,481.93 1056.87,487.55 1046.9,491.5 C999.63,510.22 979.95,481.72 932.9,501 C901.23,513.98 872.05,540.91 853.7,560.49 " fill="none" id="UserValidator-backto-UserRequest" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1086.26,467.72,1079.0585,468.0915,1076.6316,474.882,1083.8331,474.5105,1086.26,467.72" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d90a0f9d08e8219c9a0f4fc85b21996b]
+reverse link RoomValidator to RoomRequest--><g id="link_RoomValidator_RoomRequest"><path codeLine="133" d="M881.92,447.63 C842.66,459.44 795.78,476.93 757.9,501 C732.68,517.03 709.21,542.1 693.9,560.4 " fill="none" id="RoomValidator-backto-RoomRequest" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="894.65,443.91,887.7691,441.7527,883.1313,447.2746,890.0122,449.4318,894.65,443.91" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[347ebca665cd33429434e981f48783f6]
+reverse link UserServiceImpl to UserValidator--><g id="link_UserServiceImpl_UserValidator"><path codeLine="135" d="M1133.14,298.6 C1131.87,324.58 1130.15,359.59 1128.84,386.34 " fill="none" id="UserServiceImpl-backto-UserValidator" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1133.77,285.58,1129.4782,291.3749,1133.1767,297.5653,1137.4684,291.7704,1133.77,285.58" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c6187ebc8c2405ad19d5c99270bdfe6b]
+reverse link RoomServiceImpl to RoomValidator--><g id="link_RoomServiceImpl_RoomValidator"><path codeLine="136" d="M955.67,298.6 C956.94,324.58 958.65,359.59 959.96,386.34 " fill="none" id="RoomServiceImpl-backto-RoomValidator" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="955.03,285.58,951.3316,291.7704,955.6233,297.5653,959.3218,291.3749,955.03,285.58" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1bd6e7ccb7751977ad0b3801b48cdb2d]
+reverse link UserServiceImpl to UserRepository--><g id="link_UserServiceImpl_UserRepository"><path codeLine="138" d="M1218.84,266.84 C1462.41,279.55 2153.54,316.45 2174.9,327 C2208.18,343.43 2233.94,379.08 2248.27,402.8 " fill="none" id="UserServiceImpl-backto-UserRepository" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1205.51,266.15,1211.2955,270.4545,1217.494,266.7696,1211.7085,262.4652,1205.51,266.15" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[87c9e97780546b58c8a6a8058cdf962d]
+reverse link RoomServiceImpl to RoomRepository--><g id="link_RoomServiceImpl_RoomRepository"><path codeLine="139" d="M1001.78,292.16 C1015.82,299.4 1031.53,306.15 1046.9,310 C1146.62,334.96 1876.02,289.93 1971.9,327 C2011.8,342.42 2046.95,378.72 2067.07,402.81 " fill="none" id="RoomServiceImpl-backto-RoomRepository" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="989.94,285.75,993.3127,292.1238,1000.4933,291.462,997.1207,285.0882,989.94,285.75" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[e9451966df70f345a1959a72b96231c3]
+reverse link UserServiceImpl to UserRequestMapper--><g id="link_UserServiceImpl_UserRequestMapper"><path codeLine="141" d="M1088.44,291.97 C1075.45,298.98 1061.01,305.67 1046.9,310 C975.16,332.03 952.34,311.51 878.9,327 C791.33,345.47 693.46,379.95 633.02,402.94 " fill="none" id="UserServiceImpl-backto-UserRequestMapper" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1099.92,285.51,1092.7295,284.9648,1089.4607,291.3925,1096.6512,291.9377,1099.92,285.51" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[69258ad9980c11d18ce7691393b2f10a]
+reverse link RoomServiceImpl to RoomRequestMapper--><g id="link_RoomServiceImpl_RoomRequestMapper"><path codeLine="142" d="M865.53,279.59 C811.04,289.63 739.62,301.9 675.9,310 C630.99,315.71 514.37,308.84 472.9,327 C434.92,343.63 401.52,379.22 382.27,402.88 " fill="none" id="RoomServiceImpl-backto-RoomRequestMapper" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="878.65,277.16,872.0212,274.3213,866.8512,279.3484,873.4801,282.1871,878.65,277.16" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c9ef0ab3abd05492645e99f093aa3a8a]
+reverse link RoomRequestMapper to Room--><g id="link_RoomRequestMapper_Room"><path codeLine="144" d="M262.15,437.66 C179.14,447.85 71.84,467.22 44.9,501 C8.46,546.69 6,588.89 44.9,632.5 C133.56,731.88 1096.19,777.35 1359.61,787.99 " fill="none" id="RoomRequestMapper-backto-Room" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="275.25,436.11,268.8179,432.85,263.3347,437.5335,269.7669,440.7935,275.25,436.11" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[0253b2f9d982754d9ab357f0606aaa6e]
+reverse link UserRequestMapper to User--><g id="link_UserRequestMapper_User"><path codeLine="145" d="M566.23,464 C557.47,510.19 550.92,589.49 595.9,632.5 C669.43,702.79 1419.18,639 1509.9,685 C1515.73,687.95 1521.3,691.49 1526.62,695.45 " fill="none" id="UserRequestMapper-backto-User" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="568.9,451.07,563.7638,456.1315,566.4604,462.8194,571.5967,457.7579,568.9,451.07" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[bcc27b5d5a0b6fc8d4b0625845515216]
+reverse link RoomRequestMapper to RoomRequest--><g id="link_RoomRequestMapper_RoomRequest"><path codeLine="146" d="M408.47,458.2 C427.51,470.16 450.56,483.05 472.9,491.5 C493.65,499.35 501,493.57 521.9,501 C564.63,516.19 609.97,541.78 640.3,560.43 " fill="none" id="RoomRequestMapper-backto-RoomRequest" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="397.47,451.11,400.3466,457.7225,407.5569,457.6104,404.6802,450.9979,397.47,451.11" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4ebfa47de22b1334f4430d6a2491a112]
+reverse link UserRequestMapper to UserRequest--><g id="link_UserRequestMapper_UserRequest"><path codeLine="147" d="M665.86,455.55 C696.26,467.03 729.38,482.14 756.9,501 C780.66,517.28 802.52,542.06 816.83,560.22 " fill="none" id="UserRequestMapper-backto-UserRequest" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="653.47,451.01,657.7292,456.8288,664.7386,455.1352,660.4794,449.3164,653.47,451.01" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[83dc3fc021377437e6c5387d9f997b12]
+@startuml
+'https://plantuml.com/class-diagram
+package org.github.shankyty.api.request {
+    class RoomRequest{}
+    class UserRequest{}
+}
+package org.github.shankyty.api.service {
+    interface RoomService {
+        create()
+        get()
+        delete()
+    }
+    interface UserService {
+        create()
+        get()
+        delete()
+    }
+ 
+}
+package org.github.shankyty.core {
+    interface Idable{
+        getId()
+        setId()
+    }
+
+    interface Room extends Idable {
+        getName()
+        getDisplayName()
+        getTimeZone()
+        setName()
+        setDisplayName()
+        setTimeZone()
+    }
+
+    interface User extends Idable {
+        getName()
+        getDisplayName()
+        getEmail()
+        validatePassword()
+        getTimeZone()
+        setName()
+        setDisplayName()
+        setEmail()
+        setPassword()
+        setTimeZone()
+    }
+
+}
+
+package org.github.shankyty.repository {
+    interface Repository<E extends Idable> {
+        E get(id)
+        E upsert(E)
+        boolean delete(id)
+    }
+     interface RoomRepository extends Repository {
+     }
+     interface UserRepository extends Repository {
+     }
+}
+package org.github.shankyty.validator {
+    
+    interface RoomValidator {
+        validate()
+        validateId()
+    }
+    interface UserValidator {
+        validate()
+        validateId()
+    }
+}
+
+package org.github.shankyty.mapper {
+    
+    interface Mapper<E,R> {
+        from()
+        to()
+    }
+    interface UserRequestMapper extends Mapper {
+    }
+    interface RoomRequestMapper extends Mapper {
+    }
+}
+
+
+package org.github.shankyty.impl.dao {
+    abstract AbstractDAO<E extends Idable> {
+        + E get(id)
+        + E upsert(E)
+        + boolean delete(id)
+        # query()
+    }
+
+    class RoomDAO extends AbstractDAO implements RoomRepository{
+    }
+
+    class UserDAO extends AbstractDAO implements UserRepository{
+    }
+
+    
+}
+package org.github.shankyty.impl.service {
+    class RoomServiceImpl implements RoomService {
+    }
+    
+    class UserServiceImpl implements UserService {
+    }
+}
+package org.github.shankyty.impl.validator {
+    class RoomValidatorImpl implements RoomValidator {
+    }
+    class UserValidatorImpl implements UserValidator {
+    }
+}
+
+package org.github.shankyty.impl.mapper {
+    
+    class UserRequestMapperImpl implements UserRequestMapper {
+    }
+    class RoomRequestMapperImpl implements RoomRequestMapper {
+    }
+}
+
+AbstractDAO *- - Idable
+Repository *- - Idable
+
+UserRepository *- - User
+RoomRepository *- - Room
+
+UserService *- - UserRequest
+RoomService *- - RoomRequest
+
+UserValidator *- - UserRequest
+RoomValidator *- - RoomRequest
+
+UserServiceImpl *- - UserValidator
+RoomServiceImpl *- - RoomValidator
+
+UserServiceImpl *- - UserRepository
+RoomServiceImpl *- - RoomRepository
+
+UserServiceImpl *- - UserRequestMapper
+RoomServiceImpl *- - RoomRequestMapper
+
+RoomRequestMapper *- - Room
+UserRequestMapper *- - User
+RoomRequestMapper *- - RoomRequest
+UserRequestMapper *- - UserRequest
+
+@enduml
+
+@startuml
+package org.github.shankyty.api.request {
+    class RoomRequest{}
+    class UserRequest{}
+}
+package org.github.shankyty.api.service {
+    interface RoomService {
+        create()
+        get()
+        delete()
+    }
+    interface UserService {
+        create()
+        get()
+        delete()
+    }
+ 
+}
+package org.github.shankyty.core {
+    interface Idable{
+        getId()
+        setId()
+    }
+
+    interface Room extends Idable {
+        getName()
+        getDisplayName()
+        getTimeZone()
+        setName()
+        setDisplayName()
+        setTimeZone()
+    }
+
+    interface User extends Idable {
+        getName()
+        getDisplayName()
+        getEmail()
+        validatePassword()
+        getTimeZone()
+        setName()
+        setDisplayName()
+        setEmail()
+        setPassword()
+        setTimeZone()
+    }
+
+}
+
+package org.github.shankyty.repository {
+    interface Repository<E extends Idable> {
+        E get(id)
+        E upsert(E)
+        boolean delete(id)
+    }
+     interface RoomRepository extends Repository {
+     }
+     interface UserRepository extends Repository {
+     }
+}
+package org.github.shankyty.validator {
+    
+    interface RoomValidator {
+        validate()
+        validateId()
+    }
+    interface UserValidator {
+        validate()
+        validateId()
+    }
+}
+
+package org.github.shankyty.mapper {
+    
+    interface Mapper<E,R> {
+        from()
+        to()
+    }
+    interface UserRequestMapper extends Mapper {
+    }
+    interface RoomRequestMapper extends Mapper {
+    }
+}
+
+
+package org.github.shankyty.impl.dao {
+    abstract AbstractDAO<E extends Idable> {
+        + E get(id)
+        + E upsert(E)
+        + boolean delete(id)
+        # query()
+    }
+
+    class RoomDAO extends AbstractDAO implements RoomRepository{
+    }
+
+    class UserDAO extends AbstractDAO implements UserRepository{
+    }
+
+    
+}
+package org.github.shankyty.impl.service {
+    class RoomServiceImpl implements RoomService {
+    }
+    
+    class UserServiceImpl implements UserService {
+    }
+}
+package org.github.shankyty.impl.validator {
+    class RoomValidatorImpl implements RoomValidator {
+    }
+    class UserValidatorImpl implements UserValidator {
+    }
+}
+
+package org.github.shankyty.impl.mapper {
+    
+    class UserRequestMapperImpl implements UserRequestMapper {
+    }
+    class RoomRequestMapperImpl implements RoomRequestMapper {
+    }
+}
+
+AbstractDAO *- - Idable
+Repository *- - Idable
+
+UserRepository *- - User
+RoomRepository *- - Room
+
+UserService *- - UserRequest
+RoomService *- - RoomRequest
+
+UserValidator *- - UserRequest
+RoomValidator *- - RoomRequest
+
+UserServiceImpl *- - UserValidator
+RoomServiceImpl *- - RoomValidator
+
+UserServiceImpl *- - UserRepository
+RoomServiceImpl *- - RoomRepository
+
+UserServiceImpl *- - UserRequestMapper
+RoomServiceImpl *- - RoomRequestMapper
+
+RoomRequestMapper *- - Room
+UserRequestMapper *- - User
+RoomRequestMapper *- - RoomRequest
+UserRequestMapper *- - UserRequest
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 22:31:30 IST 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: IN
+--></g></svg>
