@@ -28,3 +28,7 @@ Author: Shashank Tyagi
 
 ## View a user
 ![Entities](design/diagram/ViewUserFlow.svg)
+
+
+## Packages and classes
+![Entities](design/diagram/Classes.svg)
