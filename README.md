@@ -16,3 +16,15 @@ Author: Shashank Tyagi
 ## Entities 
 
 ![Entities](design/diagram/Entities.svg)
+
+## Create a user
+![Entities](design/diagram/CreateUserFlow.svg)
+
+## Create a room
+![Entities](design/diagram/CreateRoomFlow.svg)
+
+## View a room
+![Entities](design/diagram/ViewRoomFlow.svg)
+
+## View a user
+![Entities](design/diagram/ViewUserFlow.svg)
